@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Reproductor de musica</string>
+    <string name="cancion_1">Welcome</string>
+    <string name="cancion_2">Precius</string>
+    <string name="cancion_3">Rush</string>
+    <string name="cancion_4">Rhinestone Eyes</string>
+    <string name="cancion_5">It\'s not good</string>
+
+    <string name="album_1">Twilight</string>
+    <string name="album_2">The Best Of Depeche mode Vol. 1</string>
+    <string name="album_3">Songs Of Faith And Devotion</string>
+    <string name="album_4">Plastic Beach</string>
+    <string name="album_5">Ultra</string>
+
+    <string name="artista_1">Bôa</string>
+    <string name="artista_2">Depeche Mode</string>
+    <string name="artista_3">Depeche Mode</string>
+    <string name="artista_4">Gorillaz</string>
+    <string name="artista_5">Depeche Mode</string>
+
+
+</resources>
